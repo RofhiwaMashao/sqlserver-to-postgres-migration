@@ -33,5 +33,5 @@ We will be using
     - Convert the data types
     - Create tables in Postgres
     - Load tables into Postgres
-    - Run post-data migration checks
-    - Generate validation report
+- Run post-data migration checks
+- Generate validation report
