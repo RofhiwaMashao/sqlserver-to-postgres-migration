@@ -1,6 +1,6 @@
 # Preface
 
-This project is about migrating enterprise data from SQL server into Postgres.
+This project is about migrating banking data from SQL server into Postgres.
 
 We will be using
 
